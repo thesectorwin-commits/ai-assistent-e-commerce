@@ -1,0 +1,8 @@
+{
+  "name": "ozon-ai-demo",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^7.13.0"
+  }
+}
